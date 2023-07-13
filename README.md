@@ -2,7 +2,7 @@
 
 system_info provides an easy-to-use API for retrieving hardware information of your system components such as CPU, RAM, Disk.
 
-## usage1
+## example1
 
 ```cpp
 #include <iostream>
@@ -40,7 +40,7 @@ CPU ID: F1060400FFFBEBBF
 DISK ID: 600605b005d10d3022c7d6730bb72d36
 ```
 
-## usage2
+## example2
 
 ```cpp
 #define CPU_INFO_IMPLEMENTATION
